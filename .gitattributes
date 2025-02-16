@@ -1,0 +1,8 @@
+الفعلي filter=lfs diff=lfs merge=lfs -text
+للملف filter=lfs diff=lfs merge=lfs -text
+الكبير filter=lfs diff=lfs merge=lfs -text
+*.ext filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+استبدل filter=lfs diff=lfs merge=lfs -text
+.ext filter=lfs diff=lfs merge=lfs -text
+بالامتداد filter=lfs diff=lfs merge=lfs -text
